@@ -1,0 +1,60 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-JUAEAKB",
+    "children" : [ {
+      "name" : "22520-MainThread",
+      "children" : [ {
+        "name" : "门店用例",
+        "uid" : "40147d6b0d3deeec",
+        "parentUid" : "ec033b3043367e10e1308872685efaaa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625574294070,
+          "stop" : 1625574294752,
+          "duration" : 682
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ec033b3043367e10e1308872685efaaa"
+    }, {
+      "name" : "24508-MainThread",
+      "children" : [ {
+        "name" : "门店用例",
+        "uid" : "179ca19ed7e67805",
+        "parentUid" : "5641c2e613525d52c1cf0f68bc727b7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625574407268,
+          "stop" : 1625574407370,
+          "duration" : 102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5641c2e613525d52c1cf0f68bc727b7e"
+    }, {
+      "name" : "3964-MainThread",
+      "children" : [ {
+        "name" : "门店用例",
+        "uid" : "10e5837c1fcfda4e",
+        "parentUid" : "40c52ae2406d6a6dc53482e867e55b85",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625574435605,
+          "stop" : 1625574435702,
+          "duration" : 97
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "40c52ae2406d6a6dc53482e867e55b85"
+    } ],
+    "uid" : "43b08efa7c320e96f8a12ab19529d42d"
+  } ]
+}

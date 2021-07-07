@@ -1,0 +1,102 @@
+{
+  "uid" : "10e5837c1fcfda4e",
+  "name" : "门店用例",
+  "fullName" : "test_case.test_dept.TestDept#test_dept",
+  "historyId" : "7863af492353d38af17cf6a17d28c55a",
+  "time" : {
+    "start" : 1625574435605,
+    "stop" : 1625574435702,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "http",
+    "time" : {
+      "start" : 1625574435225,
+      "stop" : 1625574435226,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "get_token",
+    "time" : {
+      "start" : 1625574435226,
+      "stop" : 1625574435604,
+      "duration" : 378
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_dept"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDept"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JUAEAKB"
+  }, {
+    "name" : "thread",
+    "value" : "3964-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_dept"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "179ca19ed7e67805",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625574407268,
+        "stop" : 1625574407370,
+        "duration" : 102
+      }
+    }, {
+      "uid" : "40147d6b0d3deeec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625574294070,
+        "stop" : 1625574294752,
+        "duration" : 682
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10e5837c1fcfda4e.json",
+  "parameterValues" : [ ]
+}

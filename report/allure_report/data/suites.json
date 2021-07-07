@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_dept",
+      "children" : [ {
+        "name" : "TestDept",
+        "children" : [ {
+          "name" : "门店用例",
+          "uid" : "10e5837c1fcfda4e",
+          "parentUid" : "9f50431c2e09c3696e5df978de29dfad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1625574435605,
+            "stop" : 1625574435702,
+            "duration" : 97
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9f50431c2e09c3696e5df978de29dfad"
+      } ],
+      "uid" : "5b5def3695d582d16972184cbd76fdac"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}
